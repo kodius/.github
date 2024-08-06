@@ -4,4 +4,4 @@ We've contributed to the startup community with our [Kodistart program](https://
 
 Additionally, we also contribute with Open Source! See e.g. [our @kodiui/cli package for React developers](https://github.com/kodius/kodiui-core)!
 
-![kloki](https://raw.githubusercontent.com/kodius/.github/main/kloki.jpg)
+![kloki](https://raw.githubusercontent.com/kodius/.github/main/kloki.png)
