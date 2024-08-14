@@ -4,7 +4,7 @@ We've contributed to the startup community with our [Kodistart program](https://
 
 Additionally, we also contribute with Open Source! See e.g. [our @kodiui/cli package for React developers](https://github.com/kodius/kodiui-core)!
 
-Ako ste iz Hrvatske ili iz regije, provjerite našeg pomoćnika za sretne urede! Samo neke od funkcionalnosti,
+Ako ste iz Hrvatske ili iz regije, **provjerite Kloki - našeg pomoćnika za sretne urede**! Samo neke od funkcionalnosti,
 
 * evidencija svih odsutnosti (godišnji, bolovanja, svi mogući dopusti, rad od kuće i sve što možete zamisliti!)
 * putni nalozi, putni troškovi, šihterica, kolektivni godišnji i puno puno drugih stvari! (sve automatizirano!)
